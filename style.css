@@ -1,2 +1,14 @@
-header { background-color: goldenrod;
-color: black;}
+header { background-color: rgb(185, 204, 233);
+color: black;
+display: flex;
+justify-content: space-around;
+}
+
+img{
+     width: 20%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
