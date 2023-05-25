@@ -1,4 +1,4 @@
-header { background-color: rgb(220, 250, 255);
+header { background-color: rgb(255, 255, 255);
 color: black;
 display: flex;
 justify-content: space-around;
@@ -11,4 +11,10 @@ img{
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
+}
+
+.escola{
+    background-image: linear-gradient(#ffffff, #CDE2F8);
+    color: white;
+    display: flex;
 }
